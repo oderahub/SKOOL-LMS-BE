@@ -1,6 +1,6 @@
--Project has been setup
+--Project has been setup
 -Typescript
--Vite
+--Vite
 -Tailwind
 -Eslint
 
